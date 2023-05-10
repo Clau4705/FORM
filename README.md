@@ -1,17 +1,20 @@
-# Projeto Formulário Responsivo
+# Projeto Formulário Responsivo ❤👌
 
-## Descrição
+## 📝Descrição
 treinamento de confecção de formulário responsivo, usando flexbox.
 
-## Progresso
+## 🚀 Progresso
 - Marcação semântica
 - Propriedades personalizadas CSS3
 - Flexbox
 - Design Responsivo
 
-## Design
+## 🏸 Design
+<img src="./assets/css/img/gif.gif"></img>
+
 
 Autor
+
 
 GitHub: <a href="https://github.com/Clau4705">DevClaudinéia</a>
 
